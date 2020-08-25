@@ -1,0 +1,97 @@
+html, body {
+    height: 100vh;
+  }
+  .kr-kolonna {
+    background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+  }
+  .lb-kolonna {
+    background: #E5E5E5;
+  }
+  .sveiciens {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 70px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+.group1 {
+    width: 449px;
+    height: 256px;
+    margin: 50px auto 0;
+    text-align: center;
+}
+.group2 {
+    width: 459px;
+    height: 365.23px;
+    text-align: center;
+    margin: 10px auto 0;
+}
+
+.group3 {
+    width: 634px;
+    height: 366px;
+    margin: 60px auto 0;
+}
+
+.linija {
+    width: 248px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+}
+
+.paskaidrojums {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+  .container-fluid {  
+    background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+  }
+  .img1 {
+      width: 400px;
+
+  }
+  .jautajums {
+    width: 474px;
+    height: 162px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 81px;
+    color: #0084F8;
+  }
+  .button1 {
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    font-family: 'Merriweather', serif;
+    margin: 0 20px;
+  }
+  .button2 {
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    font-family: 'Merriweather', serif;
+  }
+  .button3 {
+    background-color: rgb(250, 144, 162);
+    color: white;
+    border: 2px solid blue;
+    font-family: 'Merriweather', serif;
+    position: absolute;
+   bottom: 2vh;
+   right: 2vw;
+  }
+  .pozic {
+    margin: 40px auto 0;
+
+  }
